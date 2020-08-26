@@ -1,1 +1,1 @@
-# A function called checkPW is used to check the passwork whether is correct.
+# There is a function called checkPW to check the passwork whether is correct.
