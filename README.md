@@ -1,1 +1,1 @@
-# There is a function called checkPW to check the passwork whether is correct.
+This is a program that shows how a typical login process work. 
